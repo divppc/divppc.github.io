@@ -2,8 +2,10 @@
   "name": "Wave.video",
   "short_name": "Wave",
   "lang": "en-US",
-  "start_url": "https://divppc.github.io/",
+  "start_url": "/",
   "display": "standalone",
+  "theme_color": "#E6E6FA",
+  "background_color": "#1698CA",
   "icons": [
   {
    "src": "\/android-icon-36x36.png",
