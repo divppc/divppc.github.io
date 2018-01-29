@@ -1,4 +1,4 @@
-‘use strict’;
+'use strict';
 
 importScripts('sw-toolbox.js');
 toolbox.precache(['index.html','assets/css/style.css']);
